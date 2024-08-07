@@ -3,6 +3,6 @@
         "echo Hello world!"
     ],
     "licenses": [
-        "ip:91.235.160.23"
+        "ip:127.0.0.1"
     ]
 }
